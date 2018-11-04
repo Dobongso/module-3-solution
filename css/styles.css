@@ -46,20 +46,20 @@ body {
 }
 
 #nav-list {
-    background-color:black;
+    background-color:blue;
     margin-top: 10px;
 }
 
 #nav-list a {
     text-align: center;
     font-weight: bolder;
-    color: white;
+    color: silver;
     font-size: 1.2em;
 }
 
 #nav-list a:hover {
     color: #202020;
-    background-color: #fce29e;
+    background-color: silver;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
